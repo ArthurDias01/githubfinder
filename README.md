@@ -64,11 +64,6 @@ Builds the app for production to the `build` folder.
 - ESLint
 - Prettier
 
-# 👨🏻‍💻 Author
-
-- GitHub: [joaogabriel-sg](https://github.com/joaogabriel-sg)
-- LinkedIn: [joaogabriel-sg](https://www.linkedin.com/in/joaogabriel-sg/)
-
 # ✨ Show your support
 
 Give a ⭐ if this project helped you or if you liked it!
